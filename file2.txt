@@ -1,1 +1,2 @@
 master --allow-unrelated-histories
+master --allow-unrelated-histories
